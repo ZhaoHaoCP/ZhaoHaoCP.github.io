@@ -1,0 +1,53 @@
+/**
+ * 技术信息：请求参数
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "directory": "www-lemoine-produits-recreatifs-com-6fcad25e",
+    "options": {
+        "url": "http://www.lemoine-produits-recreatifs.com/index.html",
+        "ipaddress": "104.221.217.130",
+        "originURL": "http://www.lemoine-produits-recreatifs.com/",
+        "domain": "www.lemoine-produits-recreatifs.com",
+        "request": {
+            "headers": {
+                "Accept": "text/html,*/*",
+                "Accept-language": "zh-CN,zh;q=0.9",
+                "Accept-Encoding": "gzip",
+                "Cache-control": "no-cache",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "X-Scraper-WebSite": "https://bazhan.me/",
+                "referer": "http://www.lemoine-produits-recreatifs.com/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html",
+                "content-encoding": "gzip",
+                "last-modified": "Sun, 27 Oct 2019 15:48:41 GMT",
+                "accept-ranges": "bytes",
+                "etag": "\"308dd81de8cd51:0\"",
+                "vary": "Accept-Encoding",
+                "server": "Microsoft-IIS/8.5",
+                "date": "Fri, 03 Jul 2020 05:22:17 GMT",
+                "connection": "close",
+                "content-length": "16054"
+            }
+        }
+    },
+    "formatter": {
+        "css": false,
+        "html": false,
+        "javascript": false,
+        "save-original": true
+    },
+    "user": {
+        "isWhite": false
+    },
+    "time": {
+        "start": 1593753965912,
+        "end": 1593753969922,
+        "spend": "4.01s"
+    }
+}
